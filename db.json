@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "title": "my stream ",
+      "description": "this is my stream",
+      "id": 8
+    },
+    {
+      "title": "Another Stream",
+      "description": "Indeed another stream",
+      "id": 9
+    },
+    {
+      "title": "Unexpected behaviour",
+      "description": "wow",
+      "userId": "109104382664067819811",
+      "id": 11
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page.",
+      "userId": "109104382664067819811",
+      "id": 12
+    },
+    {
+      "title": "Another Test",
+      "description": "Another test you say.....",
+      "userId": "109104382664067819811",
+      "id": 14
+    },
+    {
+      "title": "Me Streaming About How to Reuse Components.",
+      "description": "This change was made by a PATCH request.",
+      "userId": "109104382664067819811",
+      "id": 15
+    },
+    {
+      "title": "This Is A Stream About Dogs",
+      "description": "And about cats but mostly dogs",
+      "id": 17
+    },
+    {
+      "title": "A Test For Final Form",
+      "description": "And react-final-form as well. How are you today?",
+      "userId": "109104382664067819811",
+      "id": 18
+    }
+  ]
+}
